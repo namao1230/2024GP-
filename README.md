@@ -223,6 +223,6 @@ function keyReleased() {
 동영상 크기가 6mb라 미리보기로 보는것이 불가능합니다.        
 p5.js 지형 만들기.mp4를 클릭하셔서        
 View raw 를 클릭하시면 파일을 다운하셔서 동영상을 보실수 있습니다.
-추가로 Add files via upload
+추가로 Add files via upload        
 로 들어가시면 설명을 보실수있습니다. 
 
