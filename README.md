@@ -1,7 +1,7 @@
 # 2024GP- 그래픽스 지형 만들기 및 작품
 20210817 신현진 
 -------------
-let cols, rows;\n
+let cols, rows;
 let scl = 20;
 let w = 1400;
 let h = 1400;
