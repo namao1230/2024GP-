@@ -223,5 +223,4 @@ function keyReleased() {
 동영상 크기가 6mb라 미리보기로 보는것이 불가능합니다.
 p5.js 지형 만들기.mp4를 클릭하셔서
 Add files via upload
-로 들어가시면 설명과 함께 
-밑에 Binary file addedBIN +6 MB 이부분옆에있는 "p5.js 지형 만들기 및 작품.mp4" 를 누르시면 다운하실 수 있습니다. 
+로 들어가시면 설명을 보실수있습니다. 
