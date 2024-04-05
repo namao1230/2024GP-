@@ -80,7 +80,7 @@ function draw() {
     beginShape(TRIANGLE_STRIP);        
     for (let x = 0; x < cols; x++) {        
       let v = terrain[x][y];        
-      fill(v + 0, 80, 0, v + 200);        
+      fill(v + 0, 80, 0, v + 200);      // 색상 및 투명도 색상은 초록색으로 만들고 투명도는 좀 진하게 나타내기위해 200으로 설정  
       vertex(x * scl, y * scl, terrain[x][y]);        
       vertex(x * scl, (y + 1) * scl, terrain[x][y + 1]);        
     }        
